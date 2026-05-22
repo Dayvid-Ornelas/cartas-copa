@@ -133,6 +133,3 @@ No final, `updateDashboard();` faz a primeira renderização ao carregar a pági
 
 ---
 
-## Resumo rápido para falar ao professor
-
-"Eu separei o painel em três etapas: processar os dados (filtro e ordenação), renderizar tabela e renderizar resumo. A cada mudança do usuário, uma função central atualiza tudo em tempo real com manipulação de DOM."
